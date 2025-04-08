@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "jarspar_tf_protein_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "/data03/home/yanleiyu/24_population/08_dongxu_ZNX_FZX_LcVIN_promoter_search/fimo/TF_finding_In_protein/workdir/jarspar/plant/jarspar_tf_protein_sequence.fasta",
+  "number-of-letters": 249115,
+  "number-of-sequences": 682,
+  "last-updated": "2025-04-03T18:42:00",
+  "number-of-volumes": 1,
+  "bytes-total": 438650,
+  "bytes-to-cache": 255510,
+  "files": [
+    "jarspar_tf_protein_db.pdb",
+    "jarspar_tf_protein_db.phr",
+    "jarspar_tf_protein_db.pin",
+    "jarspar_tf_protein_db.pot",
+    "jarspar_tf_protein_db.psq",
+    "jarspar_tf_protein_db.ptf",
+    "jarspar_tf_protein_db.pto"
+  ]
+}

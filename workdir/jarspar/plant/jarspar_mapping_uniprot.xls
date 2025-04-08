@@ -1,0 +1,806 @@
+Name	Matrix ID	Class	Family	Collection	Taxon	Species	Data Type	Validation	Uniprot ID	Source	Comment
+Dof3	MA0021.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Zea mays	SELEX	10074718	Q41801	Na	Na
+GATA10	MA1013.1	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	PBM	12504119	Q8VZP4	25215497	Na
+KAN4	MA1028.1	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	PBM	20444210	Q9FJV5	24477691	Na
+CCA1	MA0972.1	Tryptophan cluster factors	Myb-related	CORE	Plants	Arabidopsis thaliana	PBM	19218364	P92973	24477691	Na
+MYB105	MA1169.1	Tryptophan cluster factors	Myb	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9SEZ4	27203113	Na
+BPC5	MA1403.1	BBR/BPC	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	15722463	F4JUI3	27203113	No family information available.
+ERF109	MA1053.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	25882345	Q9SZ06	24477691	Na
+e_gw1.209.40.1	MA2382.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Physcomitrium patens	PBM	21335373	Na	25215497	Na
+ATHB-51	MA0952.1	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	PBM	16554366	Q9LZR0	24477691	Na
+bZIP911	MA0097.1	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Antirrhinum majus	SELEX	9680995	O22677	Na	Na
+BZIP60	MA0967.1	Basic leucine zipper factors (bZIP)	Group K	CORE	Plants	Arabidopsis thaliana	PBM	8487298	Q9C7S0	24477691	Na
+BPC6	MA1402.1	BBR/BPC	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	15722463	Q8L999	27203113	No family information available.
+MNB1A	MA0053.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Zea mays	SELEX	10074718	P38564	Na	Na
+AGL27	MA1012.1	MADS box factors	MIKC	CORE	Plants	Arabidopsis thaliana	ChIP-seq	24067612	Q9AT76	25361952	Na
+DREB2C	MA0986.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	23868510	Q8LFR2	24477691	Na
+ERF014	MA1222.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9LPE8	27203113	Na
+ATHB-12	MA0950.1	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	PBM	11247607	Q9M276	24477691	Na
+LFY	MA0590.1	LEAFY	Na	CORE	Plants	Arabidopsis thaliana	SELEX-seq	21515819	Q00958	Na	No family information available.
+myb.Ph3	MA0054.1	Tryptophan cluster factors	Myb	CORE	Plants	Petunia x hybrida	SELEX	7737128	Q02994	Na	Na
+NTL9	MA1046.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	F4JN35	25215497	Na
+RAP2-3	MA1051.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	15319480	P42736	24477691	Na
+BZIP42	MA1350.1	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Arabidopsis thaliana	DAP-seq	9680995	Q9LW45	27203113	Na
+MYB15	MA0574.1	Tryptophan cluster factors	Myb	CORE	Plants	Arabidopsis thaliana	SELEX	9628022	Q9LTC4	Na	Na
+CRF2	MA0975.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9756931	Q9SUQ2	25215497	Na
+AGL13	MA1204.1	MADS box factors	MIKC	CORE	Plants	Arabidopsis thaliana	DAP-seq	12743119	Q38837	27203113	Na
+ARR14	MA0947.1	Tryptophan cluster factors	GARP_ARR-B	CORE	Plants	Arabidopsis thaliana	PBM	25215497	Q8L9Y3	24477691	Na
+MYB55	MA1041.1	Tryptophan cluster factors	Myb	CORE	Plants	Arabidopsis thaliana	PBM	22197883	Q9M118	24477691	Na
+TRP2	MA1356.1	Tryptophan cluster factors	Myb-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	Q9SNB9	27203113	Na
+PHYPADRAFT_140773	MA0987.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Physcomitrium patens	PBM	10758479	Na	25215497	No UniProt ID
+MYB46	MA1040.1	Tryptophan cluster factors	Myb	CORE	Plants	Arabidopsis thaliana	PBM	22197883	Q9LXV2	24477691	Na
+ARR11	MA0946.1	Tryptophan cluster factors	GARP_ARR-B	CORE	Plants	Arabidopsis thaliana	PBM	12610214	Q9FXD6	24477691	Na
+NAC055	MA0937.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	PBM	24914054	Q9LDY8	24477691	Na
+WRKY38	MA1084.1	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q8GWF1	24477691	Na
+NAC071	MA1789.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	O49697	27203113	Na
+ATHB-16	MA0951.1	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	PBM	11247607	Q940J1	25215497	Na
+ERF5	MA1225.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	O80341	27203113	Na
+ERF018	MA1048.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	15319480	Q9S7L5	24477691	Na
+MYB111	MA1036.1	Tryptophan cluster factors	Myb	CORE	Plants	Arabidopsis thaliana	PBM	22197883	Q9FJ07	24477691	Na
+PpDof6	MA2394.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Physcomitrium patens	PBM	10758479	H1ACT2	25215497	Na
+NAC098	MA1792.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	O04017	27203113	Na
+GATA20	MA1324.1	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	12504119	Q9ZPX0	27203113	Na
+e_gw1.392.16.1	MA2383.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Physcomitrium patens	PBM	10758479	Na	25215497	Na
+abi4	MA0123.1	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	SELEX	12368505	Q8L7W9	Na	Na
+WRKY12	MA1075.1	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q93WY4	24477691	Na
+NAC073	MA1790.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	20935069	O49459	27203113	Na
+AP1	MA0940.1	MADS box factors	MIKC	CORE	Plants	Arabidopsis thaliana	ChIP-seq	8774892	P35631	25361952	Na
+bZIP910	MA0096.1	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Antirrhinum majus	SELEX	9680995	O22676	Na	Na
+TGA1A	MA0129.1	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Nicotiana sp.	SELEX	10561063	P14232	Na	Na
+PI	MA0559.1	MADS box factors	MIKC	CORE	Plants	Arabidopsis thaliana	ChIP-seq	8774892	P48007	Na	Na
+WRKY23	MA1080.1	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	O22900	25215497	Na
+DREB1E	MA0978.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	18643985	Q9SGJ6	24477691	Na
+TGA9	MA1348.1	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	DAP-seq	8487298	Q93XM6	27203113	Na
+AGL6	MA1205.1	MADS box factors	MIKC	CORE	Plants	Arabidopsis thaliana	DAP-seq	12743119	P29386	27203113	Na
+TGA4	MA1335.1	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	DAP-seq	8487298	Q39162	27203113	Na
+PK01630.1	MA2057.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+AGL16	MA1199.1	MADS box factors	MIKC	CORE	Plants	Arabidopsis thaliana	DAP-seq	12743119	A2RVQ5	27203113	Na
+TSO1	MA1161.1	CPP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9LUI3	27203113	No family information available.
+PHYPADRAFT_143875	MA0988.2	Basic helix-loop-helix factors (bHLH)	Na	CORE	Plants	Physcomitrium patens	PBM	21335373	A9TDF9	25215497	Na
+NAC079	MA0939.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	PBM	24914054	Q9FLR3	25215497	Na
+estExt_gwp_gw1.C_220046	MA2385.1	Fork head/winged helix factors	E2F	CORE	Plants	Physcomitrium patens	PBM	27203113	Na	25215497	Na
+PHYPA_011264	MA2395.1	AP2/EREBP	ERF/DREB	CORE	Plants	Physcomitrium patens	PBM	18643985	A0A2K1K6H1	25215497	Na
+ERF1B	MA0567.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	21284757	Q8LDC8	Na	Na
+PBF	MA0064.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Zea mays	SELEX	10074718	O24463	Na	Na
+GATA11	MA1014.1	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	PBM	12504119	Q6DBP8	25215497	Na
+AT4G12670	MA1354.1	Tryptophan cluster factors	Myb-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	Q700D7	27203113	Na
+EmBP-1	MA0128.1	Basic leucine zipper factors (bZIP)	Group G	CORE	Plants	Triticum aestivum	SELEX	10561063	P25032	Na	Na
+WRKY62	MA1091.1	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9LZV6	25215497	Na
+PHYPADRAFT_64121	MA1010.2	AP2/EREBP	ERF/DREB	CORE	Plants	Physcomitrium patens	PBM	15319480	A9RC32	25215497	Na
+e_gw1.170.52.1	MA2381.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Physcomitrium patens	PBM	10758479	Na	25215497	Na
+BPC1	MA1404.1	BBR/BPC	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	15722463	Q9SKD0	27203113	No family information available.
+At3g11280	MA1188.1	Tryptophan cluster factors	Myb-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+PHYPA_008731	MA2393.1	Basic helix-loop-helix factors (bHLH)	Na	CORE	Plants	Physcomitrium patens	PBM	27203113	A0A2K1KF05	25215497	Na
+TRP1	MA1352.1	Tryptophan cluster factors	Myb-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	11278537	Q8L7L8	27203113	Na
+AT1G19040	MA1734.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	20935069	A0JQ66	27203113	Na
+PHYPADRAFT_28324	MA1023.1	AP2/EREBP	ERF/DREB	CORE	Plants	Physcomitrium patens	PBM	15319480	Na	25215497	No UniProt ID
+Os05g0497200	MA1034.1	AP2/EREBP	ERF/DREB	CORE	Plants	Oryza sativa Japonica Group	PBM	15319480	Q75K84	25215497	Na
+BZIP43	MA1339.1	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Arabidopsis thaliana	DAP-seq	9680995	Q9FMC2	27203113	Na
+PHYPADRAFT_153324	MA0989.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Physcomitrium patens	PBM	10758479	Na	25215497	No UniProt ID
+PHL7	MA1384.1	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9SJW0	27203113	Na
+BZIP69	MA1746.1	Basic leucine zipper factors (bZIP)	Group I	CORE	Plants	Arabidopsis thaliana	DAP-seq	23942522	Q9LNE0	27203113	Na
+PHYPADRAFT_182268	MA1008.2	AP2/EREBP	ERF/DREB	CORE	Plants	Physcomitrium patens	PBM	15319480	A9S898	25215497	Na
+estExt_Genewise1.C_2060077	MA2384.1	Basic leucine zipper factors (bZIP)	bZIP	CORE	Plants	Physcomitrium patens	PBM	8487298	Na	25215497	Na
+TEM1	MA1800.1	B3	RAV	CORE	Plants	Arabidopsis thaliana	PBM	9862967	Q9C6M5	25215497	Na
+NAC054	MA1788.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	Q9FRV4	27203113	Na
+PK01144.1	MA2056.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10074718	Na	31133749	No UniProt ID found.
+TCX2	MA1162.1	CPP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	F4JIF5	27203113	No family information available.
+PK05451.1	MA2060.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+OJ1058_F05.8	MA1033.1	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Oryza sativa Japonica Group	PBM	8487298	Q75HX9	25215497	Na
+TCX6	MA1380.1	CPP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9SL70	27203113	No family information available.
+PHYPADRAFT_38837	MA1022.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Physcomitrium patens	PBM	10758479	Na	25215497	No UniProt ID
+ATMYB31	MA1738.1	Tryptophan cluster factors	Myb	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9CA52	27203113	Na
+NAC025	MA0935.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	PBM	24914054	Q8GY42	25215497	Na
+PK06517.1	MA2061.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+ARF13	MA1686.1	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	D9HNU0	30375394	Na
+BRN2	MA1741.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	20935069	Q9SV87	27203113	Na
+MYB59	MA1042.1	Tryptophan cluster factors	Myb	CORE	Plants	Arabidopsis thaliana	PBM	22197883	Q4JL84	24477691	Na
+PK07031.1	MA2062.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10758479	Na	31133749	No UniProt ID found.
+NAC087	MA1791.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	Q9FK44	27203113	Na
+E2FE	MA1750.1	Fork head/winged helix factors	E2F	CORE	Plants	Arabidopsis thaliana	DAP-seq	16126853	Q8LSZ4	27203113	Na
+ZHD9	MA1328.1	Homeo domain factors	PLINC	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Q8LFD3	27203113	Na
+ARF14	MA1687.1	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	D9HNU1	30375394	Na
+PK07402.1	MA2063.1	AP2/EREBP	Na	CORE	Plants	Cannabis sativa	PBM	23868510	Na	31133749	not supported by literature
+NAC005	MA1783.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	O81914	27203113	Na
+AGL63	MA1203.1	MADS box factors	MIKC	CORE	Plants	Arabidopsis thaliana	DAP-seq	12743119	Q9SA07	27203113	Na
+PK10955.1	MA2069.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10758479	Na	31133749	No UniProt ID found.
+PK15337.1	MA2070.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10758479	Na	31133749	No UniProt ID found.
+WRKY3	MA1309.1	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9ZQ70	27203113	Na
+PK08602.1	MA2065.1	AP2/EREBP	Na	CORE	Plants	Cannabis sativa	PBM	15319480	Na	31133749	not supported by literature
+PK15505.1	MA2071.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+Zm00001d052229	MA1818.1	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	ChIP-seq	24477691	C4JBG6	33037196	Na
+SOL1	MA1379.1	CPP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9M9H7	27203113	No family information available.
+PK09702.1	MA2067.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+PK19363.1	MA2078.1	AP2/EREBP	ERF/DREB	CORE	Plants	Cannabis sativa	PBM	15319480	Na	25215497	not supported by literature
+E2FD	MA1732.1	Fork head/winged helix factors	E2F	CORE	Plants	Arabidopsis thaliana	DAP-seq	16126853	Q9LFQ9	27203113	Na
+NAC011	MA1784.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	Q9LQK5	27203113	Na
+PHYPADRAFT_173530	MA1007.1	AP2/EREBP	ERF/DREB	CORE	Plants	Physcomitrium patens	PBM	15319480	Na	25215497	No UniProt ID
+PK05432.1	MA2059.1	GCM domain factors	WRKY	CORE	Plants	Cannabis sativa	PBM	11449049	Na	31133749	No UniProt ID found.
+DOF2.5	MA0977.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	PBM	10758479	Q9ZPY0	24477691	Na
+PK16335.1	MA2072.1	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Cannabis sativa	PBM	8487298	Na	31133749	not supported by literature
+PK18474.1	MA2077.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+PHYPADRAFT_48267	MA1021.2	Basic helix-loop-helix factors (bHLH)	Na	CORE	Plants	Physcomitrium patens	PBM	21335373	Na	25215497	No UniProt ID
+estExt_gwp_gw1.C_550163	MA2386.1	AP2/EREBP	ERF/DREB	CORE	Plants	Physcomitrium patens	PBM	9756931	Na	25215497	Na
+PK16340.1	MA2073.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10758479	Na	31133749	No UniProt ID found.
+PK06182.1	MA2354.1	Tryptophan cluster factors	MYB	CORE	Plants	Cannabis sativa	PBM	9628022	Na	25215497	Na
+PK17878.1	MA2074.1	AP2/EREBP	ERF/DREB	CORE	Plants	Cannabis sativa	PBM	9756931	Na	31133749	not supported by literature
+RAP2-6	MA1221.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q7G1L2	27203113	Na
+PK27149.1	MA2092.1	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Cannabis sativa	PBM	8487298	Na	31133749	No UniProt ID found.
+PK23763.1	MA2085.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10758479	Na	31133749	No UniProt ID found.
+PK20392.1	MA2082.1	Homeo domain factors	HD-ZIP	CORE	Plants	Cannabis sativa	PBM	11247607	Na	31133749	No UniProt ID found.
+PK03929.1	MA2058.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10074718	Na	31133749	No UniProt ID found.
+PK23964.1	MA2086.1	Basic leucine zipper factors (bZIP)	Group G	CORE	Plants	Cannabis sativa	PBM	8487298	Na	31133749	not supported by literature
+PK09021.1	MA2066.1	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Cannabis sativa	PBM	8487298	Na	31133749	No UniProt ID found.
+PK18009.1	MA2075.1	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Cannabis sativa	PBM	8487298	Na	31133749	No UniProt ID found.
+PK25870.1	MA2089.1	GCM domain factors	WRKY	CORE	Plants	Cannabis sativa	PBM	11449049	Na	31133749	No UniProt ID found.
+PK24205.1	MA2087.1	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Cannabis sativa	PBM	8487298	Na	31133749	No UniProt ID found.
+PK24978.1	MA2407.1	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Cannabis sativa	PBM	8487298	Na	Na	Na
+PK23009.1	MA2084.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10758479	Na	31133749	No UniProt ID found.
+SMZ	MA0553.1	AP2/EREBP	AP2	CORE	Plants	Arabidopsis thaliana	ChIP-chip	19582143	Q6PV68	24477691	Na
+AHL20	MA0933.1	A.T hook factors	AHL	CORE	Plants	Arabidopsis thaliana	PBM	22442143	Q8GWQ2	24477691	No family information available.
+POPTR_0002s00440g	MA0955.2	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Populus trichocarpa	PBM	16554053	Na	25215497	No UniProt ID
+PK21687.1	MA2357.1	Tryptophan cluster factors	MYB-related	CORE	Plants	Cannabis sativa	PBM	15364931	Na	Na	Na
+PK21166.1	MA2083.1	Tryptophan cluster factors	MYB	CORE	Plants	Cannabis sativa	PBM	26484765	Na	31133749	No UniProt ID found.
+PK22320.1	MA2358.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Cannabis sativa	PBM	16554053	Na	25215497	Na
+BHLH13	MA0958.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	Q9LNJ5	24465948	Na
+PK18401.1	MA2076.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+BHLH104	MA0960.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	Q8L467	25215497	Na
+VIT_17s0000g10420	MA2365.1	Tryptophan cluster factors	Trihelix	CORE	Plants	Na	PBM	10437822	D7SH98	25215497	Na
+PK26523.1	MA2090.1	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Cannabis sativa	PBM	25215497	Na	31133749	No UniProt ID found.
+VIT_15s0048g01150	MA2364.1	TCP	Na	CORE	Plants	Na	PBM	21241251	F6I360	25215497	Na
+TCP23	MA1066.1	TCP	Na	CORE	Plants	Arabidopsis thaliana	PBM	21241251	Q9LQF0	24477691	Na
+PIF5	MA0562.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	ChIP-seq	22536829	Q84LH8	Na	Na
+MYC2	MA0566.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21284757	Q39204	Na	Na
+bHLH78	MA0963.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	Q9FJL4	25215497	Na
+PK20225.1	MA2080.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+squamosa	MA0082.2	MADS box factors	Type II	CORE	Plants	Antirrhinum majus	Na	9826749	Q38742	Na	Na
+DREB2F	MA1242.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9SVX5	27203113	Also known as ERF051
+PK19717.1	MA2079.1	TCP	Na	CORE	Plants	Cannabis sativa	PBM	21241251	Na	31133749	No UniProt ID found.
+ARF3	MA1009.1	B3	ARF	CORE	Plants	Arabidopsis thaliana	PBM	24485461	O23661	24477691	Also known as ETT
+AGL55	MA1202.1	MADS box factors	Type I	CORE	Plants	Arabidopsis thaliana	DAP-seq	12743119	Q9C960	27203113	Na
+PK24580.1	MA2088.1	AP2/EREBP	ERF/DREB	CORE	Plants	Cannabis sativa	PBM	25220462	Na	31133749	not supported by literature
+LRL2	MA1363.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	DAP-seq	21335373	Q8S3D5	27203113	No family information available.
+DYT1	MA0580.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	SELEX	22775442	O81900	Na	Na
+WRKY51	MA2368.1	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q93WU9	25215497	Na
+PK20555.1	MA2356.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10758479	Na	Na	Na
+PK23829.1	MA2359.1	Tryptophan cluster factors	MYB-related	CORE	Plants	Cannabis sativa	PBM	25215497	Na	25215497	Na
+PK28565.1	MA2360.1	Tryptophan cluster factors	MYB	CORE	Plants	Cannabis sativa	PBM	27203113	Na	25215497	Na
+AT4G09450	MA2103.1	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	PBM	25215497	Q9M0P7	25220462	Na
+VOZ2	MA2366.1	GCM domain factors	VOZ	CORE	Plants	Arabidopsis thaliana	PBM	15295067	Q9SLB9	24914054	Na
+URI	MA2342.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	ChIP-seq	32692954	Q9LT23	GTRD	bHLH121
+RAP2-7	MA1796.1	AP2/EREBP	AP2	CORE	Plants	Arabidopsis thaliana	PBM	26410299	Q9SK03	24477691	Na
+PK10344.1	MA2068.1	TCP	Na	CORE	Plants	Cannabis sativa	PBM	12000681	Na	31133749	No UniProt ID found.
+PK02532.1	MA2353.1	Tryptophan cluster factors	MYB-related	CORE	Plants	Cannabis sativa	PBM	27203113	Na	25215497	Na
+AIL6	MA1378.1	AP2/EREBP	AP2	CORE	Plants	Arabidopsis thaliana	DAP-seq	11058102	Q52QU2	27203113	Na
+AHL12	MA0932.1	A.T hook factors	AHL	CORE	Plants	Arabidopsis thaliana	PBM	22442143	Q8LPN5	24477691	No family information available.
+RAV2	MA1797.1	B3	RAV	CORE	Plants	Arabidopsis thaliana	PBM	9862967	P82280	25215497	Also known as RAP2-8, TEM2
+SPL8	MA0578.1	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	SELEX	16095614	Q8GXL3	Na	No family information available.
+DOF3.6	MA1274.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9M2U1	27203113	Na
+GATA1	MA2388.1	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	12504119	Q8LAU9	27203113	Na
+MYB3R3	MA2343.1	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	ChIP-seq	17287251	Q8H1P9	GTRD	Na
+AIB	MA0959.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	Q9ZPY8	24465948	Na
+PK03576.1	MA2406.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	Na
+TCP4	MA1035.1	TCP	Na	CORE	Plants	Arabidopsis thaliana	PBM	12000681	Q8LPR5	25215497	Na
+PC-MYB1	MA2352.1	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	11487700	Q9S7G7	27203113	MYB3R-1
+NAC094	MA2387.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	Q9FIW5	27203113	Na
+TOE2	MA2363.1	AP2/EREBP	AP2	CORE	Plants	Arabidopsis thaliana	PBM	26410299	Q9LVG2	24477691	Na
+AHL13	MA2374.1	A.T hook factors	AHL	CORE	Plants	Arabidopsis thaliana	PBM	22442143	Q940I0	25215497	Na
+IDD11	MA2104.1	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q9LRW7	27203113	No family information available.
+GAF1	MA1373.1	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q9SCQ6	27203113	No family information available.
+PK06791.1	MA2355.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Cannabis sativa	PBM	16554053	Na	25215497	Na
+CAMTA5	MA2376.1	GCM domain factors	CAMTA	CORE	Plants	Arabidopsis thaliana	DAP-seq	17689537	O23463	27203113	Na
+GT-1	MA1020.1	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	PBM	10437822	Q9FX53	25215497	Na
+AZF2	MA2373.1	C2H2 zinc finger factors	Na	CORE	Plants	Arabidopsis thaliana	PBM	27203113	Q9SSW2	25215497	Na
+PK20317.1	MA2081.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Cannabis sativa	PBM	10758479	Na	31133749	No UniProt ID found.
+PHYPADRAFT_72483	MA1011.2	Basic helix-loop-helix factors (bHLH)	Na	CORE	Plants	Physcomitrium patens	PBM	21335373	Na	25215497	No UniProt ID
+WIP5	MA2367.1	C2H2 zinc finger factors	C2H2	CORE	Plants	Arabidopsis thaliana	DAP-seq	32415243	Q8W031	27203113	Na
+HSFA6A	MA1760.1	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	8689565	Q1PDN3	ReMap	No family information available.
+NAC046	MA0936.1	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	PBM	24914054	Q9SQQ6	24477691	Na
+ERF096	MA0998.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9756931	Q9LSX0	25215497	Na
+ILR3	MA2397.1	Basic helix-loop-helix factors (bHLH)	Na	CORE	Plants	Arabidopsis thaliana	PBM	12897250	Q9FH37	25215497	Na
+PLT1	MA1377.2	AP2/EREBP	AP2	CORE	Plants	Arabidopsis thaliana	DAP-seq	11058102	Q5YGP8	27203113	Na
+CRF4	MA0976.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9SUE3	27203113	Na
+RAP2-10	MA0980.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	24477691	Q9SW63	27203113	Also known as ERF009
+ERF034	MA1229.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q8LBQ7	27203113	Na
+E2FC	MA1749.1	Fork head/winged helix factors	E2F	CORE	Plants	Arabidopsis thaliana	DAP-seq	16126853	Q9FV70	27203113	Na
+TCP17	MA1290.1	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	12000681	Q9LEZ9	27203113	Na
+DOF4.7	MA2380.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	20466844	Q84K52	27203113	Na
+ERF011	MA1219.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	Na	153194809952441	Q9SNE1	ReMap	Na
+PK07858.1	MA2064.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Cannabis sativa	PBM	21335373	Na	31133749	not supported by literature
+ERF069	MA0997.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9756931	Q8W4I5	25215497	Na
+TCP7	MA1291.1	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	21241251	Q9FMX2	27203113	Na
+DREB1D	MA1218.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9952441	Q9FJ93	27203113	Na
+MYB4	MA1039.1	Tryptophan cluster factors	Myb	CORE	Plants	Arabidopsis thaliana	PBM	22197883	Q9SZP1	25215497	Na
+DREB2G	MA1226.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	P61827	27203113	Na
+NAC016	MA2005.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	A4FVP6	27203113	Na
+ERF13	MA1004.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9756931	Q8L9K1	25215497	Na
+TINY	MA1220.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q39127	27203113	Na
+DREB1A	MA0971.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9952441	Q9M0L0	25215497	Na
+ERF076	MA1001.4	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	Na	9756931	Q9C5I3	ReMap	also know as ERF11 or ERF-11
+TCP5	MA1067.1	TCP	Na	CORE	Plants	Arabidopsis thaliana	PBM	21241251	Q9FME3	25215497	Na
+IDD6	MA2348.1	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q8RWX7	27203113	Also known as BLJ
+ERF091	MA1228.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q8LBQ7	27203113	Na
+ERF7	MA0993.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9756931	Q9LDE4	25215497	Also known as ERF083
+ERF4	MA0992.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	O80340	27203113	Also known as ERF078, RAP2-5
+AIL7	MA1235.1	AP2/EREBP	AP2	CORE	Plants	Arabidopsis thaliana	DAP-seq	11058102	Q6J9N8	27203113	Na
+DEAR3	MA1376.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	15319480	O22174	24477691	also known as ERF008
+AS2	MA2398.1	Other C4 zinc finger-type factors	LBD	CORE	Plants	Arabidopsis thaliana	DAP-seq	17913740	O04479	27203113	Na
+DREB2E	MA1243.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9952441	O80917	27203113	Also known as DREB19 or ERF046
+ERF087	MA1247.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9FZ90	27203113	Na
+PK27109.1	MA2091.1	Basic leucine zipper factors (bZIP)	Group I	CORE	Plants	Cannabis sativa	PBM	8487298	Na	31133749	not supported by literature
+CRF3	MA2378.1	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9756931	Q9FK12	25215497	Na
+ANT	MA0571.2	AP2/EREBP	AP2	CORE	Plants	Arabidopsis thaliana	SELEX	11058102	Q38914	Na	Na
+LEP	MA1246.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9M644	27203113	Also known as ERF085
+ABR1	MA1244.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9FGF8	27203113	Also known as ERF111
+ERF043	MA1241.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9M080	27203113	Na
+ERF017	MA1234.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q84QC2	27203113	Na
+REV	MA2344.1	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	ChIP-seq	25395454	Q9SE43	GTRD	Na
+ERF012	MA1248.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9952441	Q9SFE4	27203113	Also known as DREB26
+ERF082	MA1005.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	O80339	27203113	also know as ERF3
+GBF1	MA2389.1	Basic leucine zipper factors (bZIP)	Na	CORE	Plants	Arabidopsis thaliana	PBM	1563344	P42774	25215497	Na
+ERF027	MA1227.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q38Q39	27203113	Na
+ERF104	MA1239.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9FKG1	27203113	Na
+ZHD14	MA2369.1	Homeo domain factors	PLINC	CORE	Plants	Arabidopsis thaliana	DAP-seq	21059647	Q9LQW3	27203113	Na
+EIL3	MA1751.2	EIL	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	28119721	O23116	27203113	No class information available
+DOF3.1	MA2379.1	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	PBM	10758479	Q94AR6	25215497	Na
+BHLH3	MA0957.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	O23487	24465948	Na
+AHL25	MA0934.1	A.T hook factors	AHL	CORE	Plants	Arabidopsis thaliana	PBM	22442143	Q6DBQ1	24477691	No family information available.
+ERF036	MA1253.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9LU18	27203113	Na
+ERF037	MA1230.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	O80654	27203113	Na
+ERF039	MA0995.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9SUK8	27203113	Na
+MBD2	MA2370.1	C2H2 zinc finger factors	Na	CORE	Plants	Arabidopsis thaliana	PBM	33139535	Q8LA53	24477691	Na
+RAP2-9	MA1251.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9952441	Q8W3M3	27203113	Also known as ERF007
+ERF105	MA1000.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q8VY90	27203113	Na
+ERF086	MA1252.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q6J9Q2	27203113	Also known as PUCHI
+BMY2	MA2375.1	Basic helix-loop-helix factors (bHLH)	BES/BZR	CORE	Plants	Arabidopsis thaliana	DAP-seq	21214652	Q9FH80	27203113	Na
+RAP2-12	MA1256.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9SSA8	27203113	Also known as ERF074
+ERF038	MA1238.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9ZQP3	27203113	Na
+AZF1	MA2372.1	C2H2 zinc finger factors	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9SSW1	27203113	Na
+ERF035	MA1223.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9M210	27203113	Na
+ERF023	MA1259.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q1ECI2	27203113	Na
+MYB31	MA2371.1	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9CA52	27203113	Na
+DREB2A	MA1258.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9952441	O82132	27203113	Also known as ERF045
+ERF021	MA1233.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9C9I2	27203113	Na
+ERF025	MA1752.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9FJ90	27203113	Na
+ERF013	MA1260.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9CAP4	27203113	Na
+ERF073	MA1754.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q8H0T5	27203113	Also known as HRE1
+ERF15	MA1231.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	Na	9756931	Q8VYM0	ReMap	Na
+ERF019	MA1424.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	31133749	O80542	27203113	Na
+RAP2-1	MA1679.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	20230648	Q8LC30	27203113	Also known as ERF006
+ERF8	MA0994.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	Na	9756931	Q9MAI5	ReMap	Na
+RAP2-11	MA1266.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q6J9S1	27203113	Also known as ERF002
+LEC2	MA0581.2	B3	LAV	CORE	Plants	Arabidopsis thaliana	SELEX	16492731	Q1PFR7	Na	Na
+WIN1	MA1804.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9756931	Q9XI33	25215497	Also known as SHN1, ERF001
+DREB1B	MA1669.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	19761621	P93835	27203113	Also known as CBF2, ERF030
+ERF9	MA1257.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9FE67	27203113	Also known as ERF080
+ERF115	MA2013.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	Na	9756931	Q9LY29	ReMap	Na
+ERF094	MA1049.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	15319480	Q9LND1	25215497	Na
+ERF055	MA1263.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9SKW5	27203113	Na
+ARF1	MA0942.2	B3	ARF	CORE	Plants	Arabidopsis thaliana	PBM	9188533	Q8L7G0	24485461	Na
+ERF054	MA1232.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9M0J3	27203113	Na
+ERF2	MA1262.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	O80338	27203113	Also known as ERF101
+ERF6	MA1006.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	9756931	Q8VZ91	25215497	Na
+ERF010	MA2011.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	Na	15319480	Q9FH94	ReMap	Na
+MYC4	MA0569.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	O49687	Na	Na
+MYC3	MA0568.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	Q9FIP9	Na	Na
+SPT	MA1061.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	Q9FUA4	25215497	Na
+DREB1C	MA1670.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9SYS6	27203113	Also known as CBF1, ERF030
+HBI1	MA1025.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	24550223	Q9ZPW3	25215497	Na
+UNE10	MA1074.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	Q8GZ38	25215497	Na
+ERF122	MA1261.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q38Q40	27203113	Na
+TCP16	MA0587.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	SELEX	22074922	Q9M1U4	Na	Na
+bHLH130	MA1358.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	DAP-seq	21335373	Q66GR3	27203113	Na
+bHLH80	MA1357.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	DAP-seq	21335373	Q9C8P8	27203113	Na
+TCP20	MA1065.3	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9LSD5	27203113	Na
+BEH2	MA1332.2	Basic helix-loop-helix factors (bHLH)	BES/BZR	CORE	Plants	Arabidopsis thaliana	DAP-seq	15681342	Q94A43	27203113	Na
+RAV1	MA0582.2	B3	RAV	CORE	Plants	Arabidopsis thaliana	SELEX	9862967	Q9ZWM9	Na	TF has several motif variants.
+bHLH77	MA1362.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	DAP-seq	21335373	Q9LK48	27203113	Na
+BEE2	MA0956.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	12897250	Q93VJ4	25215497	Na
+FUS3	MA0565.3	B3	LAV	CORE	Plants	Arabidopsis thaliana	DAP-seq	23314941	Q9LW31	27203113	Na
+ERF077	MA1240.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9ZWA2	27203113	Also known as ERF10
+TCP19	MA1063.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	PBM	21241251	Q9LT89	25215497	Na
+BZR2	MA0549.2	Basic helix-loop-helix factors (bHLH)	BES/BZR	CORE	Plants	Arabidopsis thaliana	ChIP-chip	15680330	Q9LN63	Na	Na
+PIF4	MA0561.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	ChIP-seq	22536829	Q8W2F3	Na	Na
+ERF095	MA1264.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9LTC6	27203113	Also known as ESE1
+bHLH74	MA1360.3	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	Na	21335373	Q6NKN9	ReMap	Na
+BHLH49	MA1740.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	12897250	Q9CAA9	25220462	Na
+PIF1	MA0552.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	ChIP-chip	15448264	Q8GZM7	Na	Na
+BIM3	MA0966.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	15680330	Q9FMB6	25215497	Na
+TCP9	MA1285.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	21241251	O64647	27203113	Na
+bHLH34	MA0962.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	PBM	21335373	Q9LTC7	25215497	Na
+TCP13	MA1282.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	12000681	Q9S7W5	27203113	Na
+ABI5	MA0931.2	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Arabidopsis thaliana	PBM	12376636	Q9SJN0	25215497	Na
+ARF8	MA0944.2	B3	ARF	CORE	Plants	Arabidopsis thaliana	PBM	24485461	Q9FGV1	25215497	Also known as FWF
+BIM1	MA0964.3	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	Na	15680330	Q9LEZ3	ReMap	Na
+BZIP63	MA1745.2	Basic leucine zipper factors (bZIP)	Group C	CORE	Plants	Arabidopsis thaliana	PBM	8487298	B9DGI8	25215497	Na
+BPE	MA1359.3	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	Na	21335373	Q0JXE7	ReMap	Na
+IDD1	MA2396.1	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q9LVQ7	27203113	Na
+BZR1	MA0550.3	Basic helix-loop-helix factors (bHLH)	BES/BZR	CORE	Plants	Arabidopsis thaliana	ChIP-chip	15681342	Q8S307	27203113	Na
+ARF5	MA0943.2	B3	ARF	CORE	Plants	Arabidopsis thaliana	PBM	25002510	P93024	24485461	Also known as MP
+TGA2	MA1068.3	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	Na	10662863	P43273	ReMap	Na
+TCP21	MA1287.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	21241251	Q9FTA2	27203113	Na
+ABF2	MA0941.2	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Arabidopsis thaliana	PBM	11005831	Q9M7Q4	25215497	Na
+BIM2	MA0965.3	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	Na	15680330	Q9CAA4	ReMap	Na
+TCP2	MA1064.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	PBM	21241251	Q93V43	25215497	Na
+ERF057	MA1753.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	Q9FJQ2	27203113	Na
+TGA5	MA1047.3	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q39163	27203113	Na
+TGA7	MA1070.3	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	Na	8487298	Q93ZE2	ReMap	Na
+TGA1	MA0588.2	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	SELEX	1446171	Q39237	Na	Na
+ABF4	MA1659.2	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Arabidopsis thaliana	DAP-seq	25220462	Q9M7Q2	27203113	Na
+TGA6	MA1069.3	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	Na	8487298	Q39140	ReMap	Na
+ABF1	MA0570.3	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Arabidopsis thaliana	ChIP-seq	10636868	Q9M7Q5	30445619	Na
+TCP8	MA1428.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	PBM	25702611	Q9C518	31133749	Na
+TCP22	MA1288.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	21241251	Q9C7G4	27203113	Na
+TCP24	MA1286.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	21241251	Q9C758	27203113	Na
+BAM8	MA2014.2	Basic helix-loop-helix factors (bHLH)	BES/BZR	CORE	Plants	Arabidopsis thaliana	Na	21487098	Q9FH80	ReMap	Na
+DPBF3	MA1338.3	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Arabidopsis thaliana	Na	10636868	Q9LES3	ReMap	Na
+BHLH122	MA1739.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	DAP-seq	24261563	Q9C690	27203113	No family information available.
+ARF2	MA1206.2	B3	ARF	CORE	Plants	Arabidopsis thaliana	DAP-seq	25002510	Q94JM3	27203113	Also known as MNT
+ERF015	MA1265.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q6NLD5	27203113	Na
+PIF3	MA0560.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	ChIP-seq	10797009	O80536	Na	Na
+ERF118	MA1671.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25220462	Q9CA27	27203113	Na
+bHLH18	MA1361.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	DAP-seq	21335373	Q1PF17	27203113	Na
+ERF112	MA1245.3	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9756931	P93007	27203113	Na
+GBF2	MA1672.2	Basic leucine zipper factors (bZIP)	Group G	CORE	Plants	Arabidopsis thaliana	PBM	25215497	P42775	27203113	Na
+RAP2-4	MA1795.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	15319480	Q8H1E4	25215497	Also known as ERF059
+TCP1	MA1284.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	21241251	Q9FYG7	27203113	Na
+TGA3	MA1336.2	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	DAP-seq	8487298	Q39234	27203113	Na
+BEH4	MA1331.2	Basic helix-loop-helix factors (bHLH)	BES/BZR	CORE	Plants	Arabidopsis thaliana	DAP-seq	15681342	Q9ZV88	27203113	Na
+HY5	MA0551.2	Basic leucine zipper factors (bZIP)	Group H	CORE	Plants	Arabidopsis thaliana	ChIP-chip	18287490	O24646	Na	Na
+DREB2D	MA1250.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	DAP-seq	15319480	Q9LQZ2	27203113	Also known as ERF049
+MGP	MA1158.2	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q9ZWA6	27203113	Na
+SPL11	MA1056.2	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	PBM	16554053	Q9FZK0	25215497	No family information available.
+SGR5	MA1159.2	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	F4IPE3	27203113	Na
+SPL14	MA0586.3	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	DAP-seq	18302343	Q8RY95	27203113	No family information available.
+BEH3	MA1333.2	Basic helix-loop-helix factors (bHLH)	BES/BZR	CORE	Plants	Arabidopsis thaliana	DAP-seq	15681342	O49404	27203113	Na
+SPL12	MA1057.2	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	PBM	16554053	Q9S7P5	25215497	No family information available.
+AT5G04390	MA1736.2	C2H2 zinc finger factors	C2H2	CORE	Plants	Arabidopsis thaliana	PBM	27203113	Q84K31	25215497	No family information available.
+IDD4	MA1371.2	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q8GYC1	27203113	Na
+NAC002	MA2015.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q39013	ReMap	Na
+IDD6	MA1160.2	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q8RWX7	27203113	No family information available.
+NUC	MA1157.2	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q9FFH3	27203113	Na
+SPL5	MA1059.3	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	DAP-seq	16554053	Q9S758	27203113	No family information available.
+ZAT6	MA2052.2	C2H2 zinc finger factors	C2H2	CORE	Plants	Arabidopsis thaliana	Na	24834923	O22533	ReMap	Na
+TREE1	MA1801.2	C2H2 zinc finger factors	C2H2	CORE	Plants	Arabidopsis thaliana	PBM	33139535	O81793	24477691	No family information available.
+SPL13A	MA1321.2	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	DAP-seq	16554053	B9DI20	27203113	No family information available.
+IDD7	MA1374.2	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q8H1F5	27203113	Na
+SPL15	MA1320.2	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	DAP-seq	16554053	Q9M2Q6	27203113	No family information available.
+GRF6	MA2016.2	C3H zinc finger factors	GRF	CORE	Plants	Arabidopsis thaliana	Na	22942381	Q9ZQ12	ReMap	Na
+IDD5	MA1370.2	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q9ZUL3	27203113	Na
+SPL7	MA1060.2	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	PBM	16554053	Q8S9G8	24477691	No family information available.
+NAC028	MA1427.3	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	2491405427203113	Q9SRZ8	ReMap	Na
+ABI3	MA0564.2	B3	LAV	CORE	Plants	Arabidopsis thaliana	PBM	30183137	Q01593	Na	Na
+REF6	MA1415.2	C2H2 zinc finger factors	Jumonji	CORE	Plants	Arabidopsis thaliana	ChIP-seq	27111034	Q9STM3	27111035	Na
+CAMTA2	MA0969.2	GCM domain factors	CAMTA	CORE	Plants	Arabidopsis thaliana	PBM	17689537	Q6NPP4	25215497	No family information available.
+NAC019	MA1786.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	PBM	27203113	Q9C932	24914054	Na
+NAC050	MA1663.3	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	2491405426617990	Q9SQX9	ReMap	Na
+NAC062	MA1676.3	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9SCK6	ReMap	Na
+NAC058	MA0938.3	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9LS50	ReMap	Na
+E2FA	MA1414.2	Fork head/winged helix factors	E2F	CORE	Plants	Arabidopsis thaliana	ChIP-seq	27203113	Q9FNY0	24453163	Na
+TCX3	MA1682.2	CPP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q8L548	27203113	No family information available.
+GRF9	MA1756.2	C3H zinc finger factors	GRF	CORE	Plants	Arabidopsis thaliana	DAP-seq	22942381	Q8S9M3	27203113	Na
+NAC018	MA1785.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	Q9ZNU2	27203113	Na
+NAC078	MA1677.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q84K00	27203113	Na
+AT3G46070	MA1381.2	C2H2 zinc finger factors	C2H2	CORE	Plants	Arabidopsis thaliana	DAP-seq	24567191	Q9LX86	27203113	Na
+NAC043	MA1045.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	PBM	24914054	Q84WP6	25215497	Na
+NAC020	MA2006.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q67Z40	ReMap	Na
+NAC017	MA1674.3	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24045017	Q9XIC5	ReMap	Na
+ZAT10	MA1372.2	C2H2 zinc finger factors	C2H2	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q96289	27203113	No family information available.
+NAC007	MA2044.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	20935069	Q9FWX2	ReMap	Na
+NAC69	MA2018.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9M126	ReMap	Na
+GBF3	MA1351.3	Basic leucine zipper factors (bZIP)	Group G	CORE	Plants	Arabidopsis thaliana	Na	9680995	P42776	ReMap	Na
+NAC029	MA1675.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24477691	O49255	27203113	Na
+NAC035	MA2046.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	22345491	Q9ZVP8	ReMap	Na
+NAC013	MA1660.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24045019	F4IED2	27203113	Na
+NAC045	MA2048.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	A4VCM0	ReMap	Na
+SPL4	MA1058.2	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	PBM	16554053	Q9S7A9	25215497	No family information available.
+WRKY1	MA0589.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	SELEX	8972846	Q9SI37	Na	Na
+TGA10	MA1346.2	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Arabidopsis thaliana	DAP-seq	8487298	E3VNM4	27203113	Na
+NAC031	MA2045.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9S851	ReMap	Na
+BZIP30	MA1744.2	Basic leucine zipper factors (bZIP)	Group I	CORE	Plants	Arabidopsis thaliana	PBM	23942522	Q9SIG8	25215497	Na
+CAMTA1	MA1197.2	GCM domain factors	CAMTA	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9FY74	27203113	No family information available.
+WRKY60	MA1090.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9SK33	25215497	Na
+NAC105	MA2053.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9FH59	ReMap	Na
+WRKY48	MA1088.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9FGZ4	25215497	Na
+BZIP44	MA1337.2	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Arabidopsis thaliana	DAP-seq	9680995	C0Z2L5	27203113	Na
+BZIP3	MA1340.2	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Arabidopsis thaliana	DAP-seq	8487298	Q9LFU3	27203113	Na
+WRKY26	MA1297.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9C5T3	27203113	Na
+DREB1F	MA1748.2	AP2/EREBP	ERF/DREB	CORE	Plants	Arabidopsis thaliana	PBM	18643985	Q9LN86	26103993	Also known as DDF2, ERF033
+WRKY63	MA1092.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9C6H5	25215497	Na
+BZIP48	MA1345.2	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Arabidopsis thaliana	DAP-seq	9680995	Q8RU59	27203113	Na
+NAC053	MA2049.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q949N0	ReMap	Na
+NAC038	MA2033.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9ZQ25	ReMap	Na
+NAC083	MA1043.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	PBM	24914054	Q9FY93	25215497	Na
+WRKY25	MA1081.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	Na	11449049	O22921	ReMap	Na
+NAC103	MA2038.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9FMJ1	ReMap	Na
+WRKY8	MA1094.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	Na	11449049	Q9FL26	ReMap	Na
+NAC047	MA1787.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	24914054	Q84TD6	27203113	Na
+WRKY15	MA1076.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	O22176	27203113	Na
+WRKY43	MA1086.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q8GY11	25215497	Na
+SPL10	MA1799.2	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	PBM	16554053	Q8S9L0	25220462	No family information available.
+NAC101	MA2050.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9LVA1	ReMap	Na
+WRKY6	MA1300.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9C519	27203113	Na
+JUB1	MA2017.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	22345491	Q9SK55	ReMap	Na
+WRKY46	MA1296.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9SKD9	27203113	Na
+BZIP2	MA1743.2	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Arabidopsis thaliana	DAP-seq	9680995	Q9SI15	27203113	Na
+WRKY22	MA1303.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	O04609	27203113	Na
+NAC037	MA2047.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	20935069	Q9SL41	ReMap	Na
+CAMTA3	MA0970.2	GCM domain factors	CAMTA	CORE	Plants	Arabidopsis thaliana	PBM	17689537	Q8GSA7	25215497	No family information available.
+NAC096	MA2037.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9LS24	ReMap	Na
+WRKY33	MA1301.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q8S8P5	27203113	Na
+NAC92	MA1044.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	PBM	24914054	Q9FKA0	25215497	Na
+SMB	MA2010.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	DAP-seq	20935069	Q9MA17	27203113	Na
+WRKY14	MA1314.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9SA80	27203113	Na
+TCP15	MA1062.3	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	24477691	Q9C9L2	27203113	Na
+WRKY57	MA1089.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9C983	25215497	Na
+NAC057	MA2034.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9LSH5	ReMap	Na
+WRKY28	MA1311.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q8VWJ2	27203113	Na
+WRKY40	MA1085.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	ChIP-seq	27203113	Q9SAH7	28011690	Na
+BZIP16	MA1349.2	Basic leucine zipper factors (bZIP)	Group G	CORE	Plants	Arabidopsis thaliana	DAP-seq	8487298	Q501B2	27203113	Na
+NAC075	MA2035.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	20935069	Q9M0F8	ReMap	Na
+WRKY30	MA1083.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	Na	11449049	Q9FL62	ReMap	Na
+NTL8	MA1678.3	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	Q9XIN7	ReMap	Na
+WRKY59	MA1304.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9SJ09	27203113	Na
+TCP3	MA1289.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	12000681	Q9MAH8	27203113	Na
+HYH	MA1425.2	Basic leucine zipper factors (bZIP)	Group H	CORE	Plants	Arabidopsis thaliana	PBM	12023303	Q8W191	31133749	Na
+WRKY42	MA1310.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9XEC3	27203113	Na
+HSFB2A	MA1665.3	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	24477691	Q9SCW4	ReMap	Na
+WRKY2	MA1078.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9FG77	25215497	Na
+TCP14	MA1283.2	TCP	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	21241251	Q93Z00	27203113	Na
+WRKY24	MA1315.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9FFS3	27203113	Na
+WRKY29	MA1298.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9SUS1	27203113	Na
+WRKY70	MA1308.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9LY00	27203113	Na
+WRKY17	MA1299.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9SJA8	27203113	Na
+WRKY21	MA1079.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	Na	11449049	O04336	ReMap	Na
+NAC004	MA2043.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	O81913	ReMap	Na
+VIP1	MA1803.2	Basic leucine zipper factors (bZIP)	Group I	CORE	Plants	Arabidopsis thaliana	DAP-seq	23942522	Q9MA75	27203113	Na
+WRKY31	MA1307.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	Na	11449049	Q93WT0	ReMap	Na
+WRKY27	MA1318.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9FLX8	27203113	Na
+WRKY71	MA1316.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q93WV4	27203113	Na
+WRKY50	MA1317.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q8VWQ5	27203113	Na
+BZIP28	MA1344.2	Basic leucine zipper factors (bZIP)	Group B	CORE	Plants	Arabidopsis thaliana	DAP-seq	8487298	Q9SG86	27203113	Na
+NAC010	MA2009.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	20935069	F4HY61	ReMap	Na
+BZIP53	MA1341.2	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Arabidopsis thaliana	DAP-seq	9680995	Q9LZP8	27203113	Na
+WRKY47	MA1312.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9ZSI7	27203113	Na
+HSFA4A	MA1759.2	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	8689565	O49403	ReMap	No family information available.
+BZIP68	MA0968.3	Basic leucine zipper factors (bZIP)	Group G	CORE	Plants	Arabidopsis thaliana	DAP-seq	9680995	Q84LG2	27203113	Na
+WRKY45	MA1087.3	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	Na	11449049	Q9S763	ReMap	Na
+ATHB-6	MA0953.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	PBM	11247607	P46668	25215497	Na
+WRKY75	MA1093.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9FYA2	25215497	Na
+ATHB-9	MA0573.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	SELEX	9747806	O04292	Na	Na
+HSFC1	MA1667.3	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	8689565	Q9LV52	ReMap	Na
+HSFA1E	MA1758.2	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	8689565	Q9SCW5	ReMap	No family information available.
+BZIP18	MA1742.2	Basic leucine zipper factors (bZIP)	Group I	CORE	Plants	Arabidopsis thaliana	DAP-seq	23942522	O22873	27203113	Na
+WRKY11	MA1306.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9SV15	27203113	Na
+FAR1	MA1382.2	GCM domain factors	FRS/FRF	CORE	Plants	Arabidopsis thaliana	DAP-seq	18033885	Q9SWG3	27203113	Na
+NAC68	MA2051.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	24914054	A8MQY1	ReMap	Na
+HSFB3	MA1761.2	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	8689565	O22230	ReMap	No family information available.
+HSFA1B	MA2019.2	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	27493213	O81821	ReMap	Na
+ATHB-5	MA0110.4	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	P46667	27203113	Na
+NAC076	MA2036.2	GCM domain factors	NAC	CORE	Plants	Arabidopsis thaliana	Na	20935069	O65508	ReMap	Na
+JKD	MA1156.2	C2H2 zinc finger factors	IDD	CORE	Plants	Arabidopsis thaliana	DAP-seq	24039602	Q700D2	27203113	Na
+WRKY53	MA1805.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9SUP6	25220462	Na
+HDG11	MA0990.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	PBM	11247607	Q9FX31	25215497	Na
+BHLH72	MA1364.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Arabidopsis thaliana	DAP-seq	15448264	Q570R7	27203113	No family information available.
+ATHB-40	MA1214.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	O23208	27203113	Na
+ATHB-53	MA1215.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Q9LVR0	27203113	Na
+BZIP52	MA1343.2	Basic leucine zipper factors (bZIP)	Group I	CORE	Plants	Arabidopsis thaliana	DAP-seq	8487298	Q8VWG0	27203113	Na
+WRKY20	MA1295.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q93WV0	27203113	Na
+BZIP11	MA1334.2	Basic leucine zipper factors (bZIP)	Group S	CORE	Plants	Arabidopsis thaliana	DAP-seq	9680995	O65683	27203113	Na
+ATHB-4	MA1406.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	PBM	11247607	P92953	28805249	Na
+ATHB-20	MA1209.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Q8LAT0	27203113	Na
+ZHD10	MA1807.2	Homeo domain factors	PLINC	CORE	Plants	Arabidopsis thaliana	DAP-seq	21059647	Q9FIW9	27203113	Na
+FHY3	MA0557.2	GCM domain factors	FRS/FRF	CORE	Plants	Arabidopsis thaliana	ChIP-seq	21803941	Q9LIE5	Na	Na
+SOC1	MA0554.2	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	8774892	O64645	Na	Na
+HSFB2B	MA1666.3	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	8689565	Q9T0D3	ReMap	Na
+ATHB-15	MA1026.3	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Q9ZU11	27203113	Na
+AG	MA0005.3	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	7901838	P17839	Na	Na
+ATHB-X	MA1211.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	A9Z1E8	27203113	Na
+ANL2	MA1375.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q0WV12	27203113	Na
+GATA9	MA1018.2	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	PBM	12504119	O82632	25215497	Na
+FLC	MA0558.2	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	21464308	Q5Q9J1	Na	TF has several motif variants.
+HDG7	MA1757.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	16778018	Q9LTK3	27203113	Na
+HAT1	MA1024.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	PBM	8253077	P46600	25215497	Na
+ATHB-23	MA1327.3	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Q8LFD3	27203113	Na
+AGL15	MA0548.3	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	12743119	Q38847	Na	Na
+HSFA6B	MA1664.3	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	27493213	Q9LUH8	ReMap	Na
+HAT2	MA1198.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	8253077	P46601	27203113	Na
+CDF3	MA0974.3	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q8LFV3	27203113	Na
+GATA19	MA1323.2	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	12504119	Q6QPM2	27203113	Na
+AGL1	MA0585.2	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	8597661	P29381	Na	Na
+AP3	MA0556.2	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	8774892	P35632	Na	Na
+GATA8	MA1017.2	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	PBM	12504119	Q9SV30	25215497	Na
+GATA6	MA1396.2	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9SD38	27203113	Na
+DOF5.6	MA0983.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	PBM	10758479	Q9FM03	25215497	Na
+DOF1.8	MA0981.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	PBM	10758479	Q84JQ8	25215497	Na
+WRKY55	MA1305.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9SHB5	27203113	Na
+WRKY65	MA1302.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9LP56	27203113	Na
+GATA14	MA1325.2	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	12504119	Q9M1U2	27203113	Na
+GATA15	MA1016.2	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	PBM	12504119	Q8LG10	25215497	Na
+SEP1	MA0584.2	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	8597661	P29382	Na	Na
+GATA4	MA1755.2	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	PBM	27203113	O49743	23795294	Na
+ATHB-13	MA1212.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Q8LC03	27203113	Na
+CDF2	MA0973.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	PBM	7995527	Q93ZL5	25215497	Na
+GATA12	MA1015.2	Other C4 zinc finger-type factors	C4-GATA-related	CORE	Plants	Arabidopsis thaliana	PBM	12504119	P69781	24477691	Na
+ATHB-7	MA0954.3	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	P46897	27203113	Na
+DOF5.3	MA1071.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	PBM	10758479	Q84TE9	25215497	Na
+CDF5	MA1268.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9SEZ3	27203113	Na
+HAT5	MA0008.4	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	Na	8253077	Q02283	ReMap	Na
+DOF5.4	MA1280.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q8LDR0	27203113	Na
+DOF1.5	MA1279.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	P68350	27203113	Na
+HDG1	MA1369.2	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9M2E8	27203113	Na
+HAT22	MA1210.3	Homeo domain factors	HD-ZIP	CORE	Plants	Arabidopsis thaliana	Na	8253077	P46604	ReMap	Na
+LBD13	MA2021.2	Other C4 zinc finger-type factors	LBD	CORE	Plants	Arabidopsis thaliana	Na	17913740	Q9AT61	ReMap	Na
+DOF4.2	MA1273.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9SUB1	27203113	Na
+PHL12	MA1166.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q8VYI2	27203113	Na
+DOF3.5	MA1276.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9SVC5	27203113	Na
+HSFB4	MA2020.2	Heat shock factors	HSF	CORE	Plants	Arabidopsis thaliana	Na	8689565	Q9C635	ReMap	Na
+ZHD5	MA1326.2	Homeo domain factors	PLINC	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Q9FRL5	27203113	Na
+ZHD1	MA1329.3	Homeo domain factors	PLINC	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Q9SB61	27203113	Na
+AGL3	MA0001.3	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	8597661	P29383	Na	Na
+DOF4.5	MA1269.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	O49550	27203113	Na
+LBD18	MA1673.2	Other C4 zinc finger-type factors	LBD	CORE	Plants	Arabidopsis thaliana	DAP-seq	29681137	O22131	27203113	Na
+SVP	MA0555.2	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	8774892	Q9FVC1	Na	Na
+WRKY7	MA1313.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	DAP-seq	11449049	Q9STX0	27203113	Na
+SPL3	MA0577.4	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	SELEX	1052424016554053	P93015	Na	Na
+AT2G40260	MA1385.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+NLP7	MA1794.2	RWP-RK	Na	CORE	Plants	Arabidopsis thaliana	DAP-seq	23511481	Q84TH9	27203113	No family information available.
+ARR1	MA0945.2	Tryptophan cluster factors	GARP_ARR-B	CORE	Plants	Arabidopsis thaliana	PBM	11135105	Q940D0	25215497	Na
+ZHD6	MA1330.2	Homeo domain factors	PLINC	CORE	Plants	Arabidopsis thaliana	DAP-seq	11247607	Na	27203113	Na
+HHO5	MA1164.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	F4JRB0	27203113	Na
+SEP3	MA0563.2	MADS box factors	Type II	CORE	Plants	Arabidopsis thaliana	Na	19033361	O22456	Na	Na
+LOB	MA2022.2	Other C4 zinc finger-type factors	LBD	CORE	Plants	Arabidopsis thaliana	Na	17913740	Q9FML4	ReMap	Na
+PHL11	MA1163.3	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	Na	25215497	C0SVS4	ReMap	Na
+ARR18	MA0948.2	Tryptophan cluster factors	GARP_ARR-B	CORE	Plants	Arabidopsis thaliana	PBM	25215497	Q9FGT7	25215497	Na
+EFM	MA1167.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9ZQ85	27203113	Na
+DOF5.1	MA1281.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9LZ56	27203113	Na
+SPL9	MA1322.3	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	SELEX	1052424016554053	Q700W2	Na	Na
+KAN1	MA1027.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	PBM	24464295	Q93WJ9	24477691	Na
+DOF2.4	MA0982.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	PBM	10758479	O80928	25215497	Na
+HHO6	MA1165.3	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	Na	25215497	Q9FX84	ReMap	Na
+ZHD3	MA1213.3	Homeo domain factors	PLINC	CORE	Plants	Arabidopsis thaliana	Na	11247607	O64722	ReMap	Na
+ARR10	MA0121.2	Tryptophan cluster factors	GARP_ARR-B	CORE	Plants	Arabidopsis thaliana	SELEX	12215502	O49397	Na	Na
+SPL1	MA1055.3	C3H(C),C2HC zinc fingers factors	SBP	CORE	Plants	Arabidopsis thaliana	SELEX	2447769116554053	Q9SMX9	Na	Na
+KAN2	MA1383.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9C616	27203113	Na
+AT1G14600	MA1706.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	PBM	24464295	Q700D9	31133749	Na
+PHL4	MA2023.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	Na	30327661	Q8GXC2	ReMap	Na
+MYB24	MA1037.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	PBM	22197883	Q9SPG9	25215497	Na
+AT5G05090	MA1737.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	PBM	24477691	Q9FF65	25215497	Na
+DOF2.2	MA1272.3	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	Na	10758479	Q9ZV33	ReMap	Na
+MYB77	MA0575.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	SELEX	9628022	Q9SN12	Na	Na
+PHL2	MA1388.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q94A57	27203113	Na
+MYB118	MA1170.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9LVW4	27203113	Na
+DOF3.4	MA1278.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q39088	27203113	Na
+DOF3.2	MA1270.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9M1E6	27203113	Na
+DOF1.7	MA1277.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	O82155	27203113	Na
+MYB101	MA1173.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	O80883	27203113	Na
+DOF5.8	MA1267.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9FGD6	27203113	Na
+MYB1	MA1179.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q42575	27203113	Na
+MYB119	MA1176.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9FIM4	27203113	Na
+MYR2	MA1168.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9SQQ9	27203113	Na
+MYB3	MA1038.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	PBM	22197883	Q9S9K9	25215497	Na
+HHO3	MA1386.3	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	Na	25215497	Q9FPE8	ReMap	Na
+MYB56	MA1174.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q6R053	27203113	Na
+MYB70	MA1393.3	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	O22179	27203113	Na
+AT2G38300	MA1735.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q8GYE4	27203113	Na
+MYB116	MA1764.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	Q94FU0	27203113	Na
+MYB57	MA1293.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	Q9SSA1	27203113	Na
+PK00315.1	MA2055.1	Basic leucine zipper factors (bZIP)	Group I	CORE	Plants	Cannabis sativa	PBM	23942522	Na	31133749	not supported by literature
+MYB65	MA1177.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9FR97	27203113	Na
+MYB81	MA1175.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9SLH1	27203113	Na
+MYB3R4	MA1180.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q94FL9	27203113	Na
+RAX3	MA0576.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	SELEX	9628022	Q9M2Y9	Na	Na
+MYB40	MA1770.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	F4K6R6	27203113	Na
+MYB39	MA1769.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q8GWP0	27203113	Na
+MYB124	MA1426.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	PBM	20675570	Q94FL6	31133749	Na
+HHO2	MA1390.3	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	Na	25215497	Q8VZS3	ReMap	Na
+HRS1	MA1387.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9FX67	27203113	Na
+PHL1	MA1389.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q8GUN5	27203113	Na
+MYB51	MA1773.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	O49782	27203113	Na
+MYB98	MA1392.3	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	25215497	Q9S7L2	ReMap	Na
+MYB121	MA1765.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	Q9LRU5	27203113	Na
+MYB10	MA1762.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9LTV4	27203113	Na
+MYB33	MA1391.3	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q8W1W6	27203113	Na
+MYB3R5	MA1172.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q6R032	27203113	Na
+MYB27	MA1292.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	Q9SCP1	27203113	Na
+MYB44	MA2027.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	25220462	Q9FDW1	ReMap	Na
+DOF5.7	MA0984.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	PBM	10758479	Q9LSL6	24477691	Na
+MYB73	MA1394.3	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	O23160	27203113	Na
+MYB74	MA1777.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9M0Y5	27203113	Na
+MYB61	MA1775.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q8VZQ2	27203113	Na
+MYB94	MA1781.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9SN78	27203113	Na
+MYB43	MA1772.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9SPG7	27203113	Na
+MYB17	MA1766.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9M2D9	27203113	Na
+ARR2	MA0949.2	Tryptophan cluster factors	GARP_ARR-B	CORE	Plants	Arabidopsis thaliana	PBM	25215497	Q9ZWJ9	25215497	Na
+DOF1.6	MA1275.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9SX97	27203113	Na
+MYB107	MA2007.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9628022	Q9LDI5	27203113	Na
+MYB52	MA1171.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q6R0C4	27203113	Na
+MYB67	MA1776.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9LTW2	27203113	Na
+MYB80	MA1778.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9XHV0	27203113	Na
+CDC5	MA0579.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	SELEX	8917598	P92948	Na	Na
+RVE6	MA1183.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q8H0W3	27203113	Na
+RVE8	MA1182.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q8RWU3	27203113	Na
+RVE1	MA1184.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	F4KGY6	27203113	Na
+DOF4.3	MA1747.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Arabidopsis thaliana	DAP-seq	10758479	Q9SUB0	27203113	Na
+MYB58	MA2042.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	26484765	Q9SA47	ReMap	Na
+MYB30	MA1768.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9SCU7	27203113	Na
+MYB49	MA2028.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	26484765	Q9SPG6	ReMap	Na
+DIV1	MA1192.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+AT5G61620	MA1189.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9FKF9	27203113	Na
+MYB23	MA1767.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q96276	27203113	Na
+AT3G10580	MA1194.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+AT5G56840	MA1195.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+RVE5	MA1190.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	C0SVG5	27203113	Na
+LHY	MA1185.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	F4HQG9	27203113	Na
+RVE4	MA1187.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q6R0G4	27203113	Na
+MYB92	MA1780.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	9628022	Q9SBF3	27203113	Na
+MYB62	MA1294.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	Q9C9G7	27203113	Na
+AT5G05790	MA1196.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+MYB96	MA2030.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	26484765	Q24JK1	ReMap	Na
+RVE7	MA1401.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	B3H5A8	27203113	Na
+ENAP2	MA2040.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	Na	25215497	F4K0Q7	ReMap	Also known as VFP5
+AT1G76870	MA1367.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	22236699	Na	27203113	Na
+AT5G47660	MA1365.3	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9FGJ1	27203113	Na
+SRM1	MA1681.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9FNN6	27203113	Na
+KUA1	MA1398.3	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9LVS0	27203113	Na
+AT5G04760	MA2031.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	Na	25215497	Q9LZ21	ReMap	Na
+TRB2	MA1355.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	Q9JFW5	27203113	Na
+AT2G38090	MA1193.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+GT-3a	MA1207.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	10437822	Q9SDW0	27203113	Na
+MYB99	MA2008.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9SNW9	27203113	Na
+AT1G19000	MA1400.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+TRP5	MA1802.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	PBM	15364931	Q6R0E3	31133749	Na
+ASIL2	MA2039.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	Na	25215497	Q9LJG8	ReMap	Na
+GT-4	MA1368.3	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	20717979	Q9LU92	27203113	Na
+OS04G0486400	MA2347.1	Tryptophan cluster factors	Trihelix	CORE	Plants	Oryza sativa	PBM	10437822	Q7XUC2	25215497	Na
+RVE7L	MA1191.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	F4J2J6	27203113	Na
+MYB3R1	MA1178.3	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	25215497	Q9S7G7	ReMap	Na
+YAB4	MA1186.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9M9A3	27203113	Na
+Os05g0437700	MA2401.1	Basic leucine zipper factors (bZIP)	Na	CORE	Plants	Oryza sativa	PBM	27203113	Q75HX9	25215497	Na
+OsMSL08	MA2405.1	Tryptophan cluster factors	Trihelix	CORE	Plants	Oryza sativa	PBM	27203113	Q6ZHM5	25215497	Na
+TRB1	MA2032.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	Na	26597966	Q8VWK4	ReMap	Na
+OS02G0104500	MA2345.1	Tryptophan cluster factors	Trihelix	CORE	Plants	Oryza sativa	PBM	10437822	Q6YPG7	25215497	Na
+OsbZIP69	MA2423.1	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Oryza sativa	DAP-seq	27203113	C7J6C6	GSE207402	Na
+MYB60	MA1774.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q8GYP5	27203113	Na
+AT3G10030	MA1662.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	31133749	Q94JR1	27203113	Na
+AT1G74840	MA1397.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Na	27203113	Na
+OsERF104	MA2402.1	AP2/EREBP	ERF/DREB	CORE	Plants	Oryza sativa	PBM	24477691	Q0J525	25215497	Na
+OsTCP7	MA2346.1	TCP	Na	CORE	Plants	Oryza sativa	PBM	21241251	Q6H878	25215497	Na
+TB1	MA1430.2	TCP	Na	CORE	Plants	Oryza sativa	PBM	12000681	Q8LN68	31133749	Na
+DF1	MA1366.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	2255908	Q9C6K3	27203113	Na
+OsCCA1	MA2349.1	Tryptophan cluster factors	MYB-related	CORE	Plants	Oryza sativa	PBM	19218364	A0A0P0XBU0	25215497	Na
+TEIL	MA2362.1	EIL	Na	CORE	Plants	Na	Transfac	28119721	Q9ZWK1	16381825	Na
+OsbZIP77	MA2424.1	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Oryza sativa	DAP-seq	27203113	C7J717	GSE207402	Na
+OsTRBF3	MA2404.1	Tryptophan cluster factors	MYB-related	CORE	Plants	Oryza sativa	PBM	18477473	Q0JJZ1	25215497	Na
+MYB83	MA1779.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25220462	Q9C6U1	27203113	Na
+cassava45561.m1	MA2377.1	TCP	Na	CORE	Plants	Na	PBM	21241251	Na	25215497	Na
+Zm00001d024644	MA2106.1	Tryptophan cluster factors	MYB-related	CORE	Plants	Zea mays	ChIP-seq	25215497	B4FLJ6	33037196	Na
+ARALYDRAFT_496250	MA1096.1	TCP	Na	CORE	Plants	Arabidopsis lyrata subsp. lyrata	PBM	21241251	D7MUG0	25215497	Na
+MYB41	MA1771.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	26484765	Q9M0J5	27203113	Na
+MYB88	MA2029.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	26484765	F4IRB4	ReMap	Na
+ARALYDRAFT_484486	MA1098.1	TCP	Na	CORE	Plants	Arabidopsis lyrata subsp. lyrata	PBM	21241251	D7LRC3	25215497	Na
+BAD1	MA2408.1	TCP	Na	CORE	Plants	Zea mays	DAP-seq	21241251	B4F7W2	GSE120304	Na
+NID1	MA1793.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	PBM	27203113	Q84TG2	25215497	Na
+ARALYDRAFT_897773	MA1054.2	TCP	Na	CORE	Plants	Arabidopsis lyrata subsp. lyrata	PBM	21241251	D7L3Y2	25215497	Na
+UB3	MA2419.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Zea mays	DAP-seq	16095614	Na	GSE120304	Na
+MYB13	MA2041.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	19122102	Q9LNC9	ReMap	Na
+OsbZIP42	MA2422.1	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Oryza sativa	DAP-seq	27203113	Q0DH66	GSE207402	Na
+MYB63	MA2024.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	19122102	Q6R0A6	ReMap	Na
+EREB29	MA2416.1	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	DAP-seq	9756931	Na	GSE120304	Na
+OsFBH1	MA2350.1	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Oryza sativa	PBM	22334645	Q6Z3R6	25215497	Na
+GT-2	MA1208.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	10437822	Q39117	27203113	Na
+EREB127	MA2414.1	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	DAP-seq	15319480	K7UY40	GSE120304	Na
+OsEIL3	MA2351.1	Other all-alpha-helical DNA-binding domains	EIL	CORE	Plants	Oryza sativa	PBM	19798512	Q0J0P1	25215497	Na
+Zm00001d020595	MA1821.2	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	ChIP-seq	24477691	A0A1D6I4Y7	33037196	Na
+ARALYDRAFT_493022	MA1097.1	TCP	Na	CORE	Plants	Arabidopsis lyrata subsp. lyrata	PBM	21241251	D7MCT1	25215497	Na
+Lg3	MA2391.1	Homeo domain factors	TALE-type HD	CORE	Plants	Zea mays	PBM	19567707	Q9SYT6	25215497	Na
+EREB138	MA2415.1	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	DAP-seq	9756931	A0A060D2G6	GSE120304	Na
+Zm00001d020267	MA1817.2	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	ChIP-seq	26303437	A0A060D1F1	33037196	Also known as EREB109
+MYB93	MA2025.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	32246506	Q9S9Z2	ReMap	Na
+ARF18	MA1689.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	A0A060CYJ7	30375394	Na
+Zm00001d005892	MA1819.2	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	ChIP-seq	24477691	A0A1D6ERG6	33037196	Na
+MYB108	MA2026.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	Na	26484765	Q9LDE1	ReMap	Na
+Zm00001d031796	MA1831.2	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	ChIP-seq	24477691	A0A060D609	33037196	Also known as EREB172
+Zm00001d024324	MA1820.2	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	ChIP-seq	24477691	K7TL41	33037196	Also known as EREB54
+ARF4	MA1697.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	D9HNT1	30375394	Na
+ARALYDRAFT_495258	MA1095.1	TCP	Na	CORE	Plants	Arabidopsis lyrata subsp. lyrata	PBM	21241251	D7MRK3	25215497	Na
+Zm00001d049364	MA1833.2	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	ChIP-seq	9159183	B6TYT8	33037196	Also known as EREB209
+DVH24_040989	MA2403.1	Tryptophan cluster factors	Trihelix	CORE	Plants	Na	PBM	31044078	A0A498ICG5	25215497	Na
+ZmbZIP96	MA2413.1	Basic leucine zipper factors (bZIP)	D	CORE	Plants	Zea mays	DAP-seq	9225852	Na	GSE120304	Na
+OsRR22	MA1409.2	Tryptophan cluster factors	GARP_ARR-B	CORE	Plants	Oryza sativa	PBM	12610214	Q5SML5	27931185	Na
+Zm00001d002364	MA1832.2	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	ChIP-seq	9159183	C4J4G2	33037196	Also known as EREB97
+PRUPE_ppa000682mg	MA2361.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Na	PBM	18302343	Na	25215497	Na
+ARF10	MA1685.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	D9HNT7	30375394	Na
+IG1	MA2418.1	Other C4 zinc finger-type factors	LBD	CORE	Plants	Zea mays	DAP-seq	17913740	Q32SG3	GSE120304	Na
+ARF34	MA1693.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	A0A060D7X7	30375394	Na
+SBP8	MA2421.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Zea mays	DAP-seq	16095614	A0A060CV13	GSE120304	Na
+ARF36	MA1695.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	Na	30375394	No UniProt ID found.
+SBP6	MA2420.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Zea mays	DAP-seq	16554053	Q9SM14	GSE120304	Na
+ASR3	MA1733.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	22236699	Q8VZ20	27203113	Na
+Zm00001d018571	MA1822.2	Basic leucine zipper factors (bZIP)	Na	CORE	Plants	Zea mays	ChIP-seq	8487298	A0A1D6HQE4	33037196	No family information available.
+ARF35	MA1694.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	Na	30375394	No UniProt ID found.
+ARF16	MA1688.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	K7URZ7	30375394	Na
+ZmbZIP57	MA2411.1	Basic leucine zipper factors (bZIP)	S	CORE	Plants	Zea mays	DAP-seq	9225852	Na	GSE120304	Na
+TFLG2-Zm00001d042777	MA1835.2	Basic leucine zipper factors (bZIP)	Group D	CORE	Plants	Zea mays	ChIP-seq	8487298	O49067	33037196	Na
+ZmbZIP72	MA2412.1	Basic leucine zipper factors (bZIP)	S	CORE	Plants	Zea mays	DAP-seq	9225852	Na	GSE120304	Na
+ARF39	MA1696.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	Na	30375394	No UniProt ID found.
+Dof2	MA0020.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Zea mays	SELEX	10074718	Q41800	Na	Na
+GRMZM2G135447	MA2392.1	Homeo domain factors	TALE-type HD	CORE	Plants	Zea mays	PBM	19567707	B4FHU3	25215497	Na
+ARF29	MA1692.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	D9HNV6	30375394	Na
+ZmbZIP54	MA2410.1	Basic leucine zipper factors (bZIP)	S	CORE	Plants	Zea mays	DAP-seq	9225852	Na	GSE120304	Na
+Zm00001d015407	MA1830.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Zea mays	ChIP-seq	24477691	A0A060D7H5	33037196	Na
+GRF4	MA1815.2	C3H zinc finger factors	GRF	CORE	Plants	Oryza sativa	ChIP-seq	24532604	Q6ZIK5	30111841	Na
+Zm00001d038683	MA1828.2	TCP	Na	CORE	Plants	Zea mays	ChIP-seq	18816164	C0HEC8	33037196	Na
+OJ1581_H09.2	MA1031.2	TCP	Na	CORE	Plants	Oryza sativa Japonica Group	PBM	21241251	Q6H878	25215497	Na
+Zm00001d034298	MA1834.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Zea mays	ChIP-seq	24477691	A0A1D6L6L0	33037196	No family information available.
+SPL13B	MA2428.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+O11	MA1816.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Zea mays	ChIP-seq	7742856	A0A1D6EAS7	29436476	No family information available.
+Zm00001d044409	MA1825.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Zea mays	ChIP-seq	10652136	A0A1D6NLI6	33037196	Na
+RAMOSA1	MA1416.1	C2H2 zinc finger factors	C2H2	CORE	Plants	Zea mays	PBM	16041362	Na	24477691	Na
+Zm00001d044785	MA1827.2	Tryptophan cluster factors	GARP_G2-like	CORE	Plants	Zea mays	ChIP-seq	2902624	K7W4V3	33037196	Na
+SPL11A	MA2425.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+Zm00001d027846	MA1823.2	Other C4 zinc finger-type factors	DOF	CORE	Plants	Zea mays	ChIP-seq	10074718	B4FDH4	33037196	Na
+OsI_08196	MA1050.1	TCP	Na	CORE	Plants	Oryza sativa Indica Group	PBM	21241251	A2X7K8	25215497	Na
+SPL11B	MA2426.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL16A	MA2434.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL15B	MA2432.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+EREB71	MA2417.1	AP2/EREBP	ERF/DREB	CORE	Plants	Zea mays	DAP-seq	9756931	B4FZ51	GSE120304	Na
+SPL16D	MA2435.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+bHLH112	MA0961.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Oryza sativa Japonica Group	PBM	21335373	Q94JL3	25215497	No family information available.
+O2	MA1417.2	Basic leucine zipper factors (bZIP)	Group C	CORE	Plants	Zea mays	ChIP-seq	25215497	P12959	25691733	Na
+SPL19B	MA2437.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL15A	MA2431.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL3B	MA2442.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL13D	MA2429.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+GTL1	MA1661.2	Tryptophan cluster factors	Trihelix	CORE	Plants	Arabidopsis thaliana	DAP-seq	21169508	A0A1P8ATX4	27203113	Na
+ARF27	MA1691.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	D9HNV4	30375394	Na
+SPL18A	MA2436.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+Gam1	MA0034.2	Tryptophan cluster factors	MYB	CORE	Plants	Hordeum vulgare	SELEX	10069063	Q96464	Na	Na
+SPL2A	MA2439.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+ARF25	MA1690.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	C0PH36	30375394	Na
+SPL8B	MA2453.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+ARF7	MA1698.2	B3	ARF	CORE	Plants	Zea mays	DAP-seq	24485461	D9HNT4	30375394	Na
+SPL8D1	MA2454.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL7B	MA2451.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL9D	MA2455.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL14B	MA2430.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+AT1G72740	MA1353.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Arabidopsis thaliana	DAP-seq	22197883	F4IEY4	27203113	Na
+SPL5B	MA2447.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL7A	MA2450.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL5D	MA2448.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL15D	MA2433.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+RIN	MA1814.2	MADS box factors	Type II	CORE	Plants	Solanum lycopersicum	Na	18363783	Q8S4L4	Na	Na
+SPL1D	MA2438.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+TSAR1	MA1411.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Medicago truncatula	PBM	15448264	Na	26589673	Na
+SPL4A	MA2444.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+EIL4	MA1813.2	EIL	Na	CORE	Plants	Solanum lycopersicum	ChIP-seq	15811366	Q76DI3	30250279	No family information available.
+StBRC1	MA1410.2	TCP	Na	CORE	Plants	Solanum lycopersicum	PBM	21241251	Na	26119747	No UniProt ID found.
+DREB1G	MA1032.2	AP2/EREBP	ERF/DREB	CORE	Plants	Oryza sativa Japonica Group	PBM	15319480	Q6EP77	25215497	Na
+SPL8A	MA2452.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+GLYMA-06G314400	MA1808.2	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Glycine max	ChIP-seq	18365246	I1KFN0	31892538	Na
+TSAR2	MA1412.2	Basic helix-loop-helix factors (bHLH)	bHLH	CORE	Plants	Medicago truncatula	PBM	15448264	Na	26589673	Na
+SPL12B	MA2427.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+Zm00001d005692	MA1824.2	Homeo domain factors	HD-ZIP	CORE	Plants	Zea mays	ChIP-seq	8253077	C0PNY4	33037196	Na
+SPL2B	MA2440.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+LjTCP20	MA2400.1	TCP	Na	CORE	Plants	Na	PBM	12000681	Na	25215497	Na
+LjSGA_053525.1	MA2399.1	TCP	Na	CORE	Plants	Na	PBM	12000681	Na	25215497	Na
+P0510F09.23	MA1030.2	Tryptophan cluster factors	MYB	CORE	Plants	Oryza sativa Japonica Group	PBM	22197883	Q5N9C9	25215497	Na
+SPL3A	MA2441.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+GLYMA19G26560	MA2390.1	Basic leucine zipper factors (bZIP)	Na	CORE	Plants	Glycine max	PBM	22074922	I1N7U7	25215497	Na
+GLYMA-07G038400	MA1809.2	C3H zinc finger factors	GRF	CORE	Plants	Glycine max	ChIP-seq	29985961	I1KHB3	GSE152313	Na
+SPL6A	MA2449.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+SPL4D	MA2445.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+Glyma19g26560.1	MA1019.2	TCP	Na	CORE	Plants	Glycine max	PBM	21241251	I1N7U7	25215497	Na
+FaEOBII	MA1408.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Fragaria x ananassa	PBM	22197883	Na	25931522	No UniProt ID found.
+ASR1	MA1812.2	Tryptophan cluster factors	MYB-related	CORE	Plants	Solanum lycopersicum	ChIP-seq	15101820	A0A3Q7EM19	24423251	Na
+Zm00001d035604	MA1829.2	Tryptophan cluster factors	MYB	CORE	Plants	Zea mays	ChIP-seq	31009122	A0A1D6LHJ4	33037196	Na
+SPL3D	MA2443.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na
+GLYMA-13G317000	MA2105.1	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Glycine max	ChIP-seq	8487298	K7M309	GSE101663	Na
+SIZF2	MA1405.2	C2H2 zinc finger factors	C2H2	CORE	Plants	Solanum lycopersicum	PBM	9421523	I3NN78	24477691	Na
+GLYMA-13G317000	MA1811.2	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Glycine max	ChIP-seq	18365246	K7M309	GSE140701	Na
+GLYMA-08G357600	MA1810.2	B3	LAV	CORE	Plants	Glycine max	ChIP-seq	29660015	I1KZD3	GSE101649	Na
+MYB113	MA1181.2	Tryptophan cluster factors	MYB	CORE	Plants	Arabidopsis thaliana	DAP-seq	25215497	Q9FNV9	27203113	Na
+ABF3	MA0930.3	Basic leucine zipper factors (bZIP)	Group A	CORE	Plants	Arabidopsis thaliana	Na	11005831	Q9M7Q3	ReMap	Na
+WRKY18	MA1077.2	GCM domain factors	WRKY	CORE	Plants	Arabidopsis thaliana	PBM	11449049	Q9C5T4	24477691	Na
+ZmbZIP25	MA2409.1	Basic leucine zipper factors (bZIP)	D	CORE	Plants	Zea mays	DAP-seq	9225852	Na	GSE120304	Na
+SPL5A	MA2446.1	C3H(C),C2HC zinc-fingers like factors	SBP	CORE	Plants	Triticum aestivum	DAP-seq	16554053	Na	GSE188699	Na

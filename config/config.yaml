@@ -1,0 +1,15 @@
+workdir: '/data03/home/yanleiyu/24_population/08_dongxu_ZNX_FZX_LcVIN_promoter_search/fimo/TF_finding_In_protein/workdir'
+software_home: '/data03/home/yanleiyu/24_population/08_dongxu_ZNX_FZX_LcVIN_promoter_search/fimo/TF_finding_In_protein'
+#get_jarspar_tf_protein_sequence
+CORE_plants_meme: '/data03/home/yanleiyu/21_rna_seq/TF_learning/fimo/database_jaspar_plat_core_TF_MEME/JASPAR2024_CORE_plants_non-redundant_pfms_meme.txt'
+jarspar_type: 'plant'
+pool_threads: 120
+python: '/data03/home/yanleiyu/miniconda3/envs/epigenetics/bin/python'
+#makeblastdb
+makeblastdb: '/data03/home/yanleiyu/miniconda3/envs/Biosoft/bin/makeblastdb'
+# blastp
+pep: '/data03/home/dongxu/Litchi/longest_transcript/Lchinesis.longest_transcript.pep.fa'
+blastp_threads: 120
+blastp: '/data03/home/yanleiyu/miniconda3/envs/Biosoft/bin/blastp'
+# find_target_tf_in_genome
+target_tf: '/data03/home/yanleiyu/24_population/08_dongxu_ZNX_FZX_LcVIN_promoter_search/fimo/target_tf.txt'

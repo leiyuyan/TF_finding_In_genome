@@ -1,0 +1,11 @@
+
+
+Building a new DB, current time: 04/03/2025 18:42:24
+New DB name:   /data03/home/yanleiyu/24_population/08_dongxu_ZNX_FZX_LcVIN_promoter_search/fimo/TF_finding_In_protein/workdir/protein_db/jarspar_tf_protein_db
+New DB title:  /data03/home/yanleiyu/24_population/08_dongxu_ZNX_FZX_LcVIN_promoter_search/fimo/TF_finding_In_protein/workdir/jarspar/plant/jarspar_tf_protein_sequence.fasta
+Sequence type: Protein
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 682 sequences in 0.0159788 seconds.
+
+
